@@ -1,0 +1,305 @@
+Name	Set	ImageFile	CardType	CorpsSymbol	Price	ClashPoints	MSType	Dock Pilot	Limited	Unique	Preemptive Strike
+Liberation Army Village	set1	BF_001_liberation_army_village	Battlefield	WG	2						
+Singapore Space Base	set1	BF_002_Singapore_space_base	Battlefield	WG	2						
+Sanc Kingdom	set1	BF_003_Sanc_Kingdom	Battlefield	WG	2						
+L2 Colony	set1	BF_004_L2_Colony	Battlefield	WG	2				Y		
+New Edwards Base	set1	BF_005_New_Edwards_Base	Battlefield	WG	2						
+Lake Victoria Base	set1	BF_006_Lake_Victoria_Base	Battlefield	Oz	2						
+Luxembourg Base	set1	BF_007_luxembourg_base	Battlefield	Oz	2						
+Space Fortress Libra	set1	BF_008_Space_Fortress_Libra	Battlefield	Oz	4				Y		
+Corsica Base	set1	BF_009_Corsica_base	Battlefield	WG	2						
+St. Gabriela School	set1	BF_010_ST.Gabriela_school	Battlefield	WG	1						
+Disputed Area	set1	BF_011_disputed_area	Battlefield	WG	0						
+L5 Colony	set1	BF_012_L5_colony	Battlefield	WG	2						
+Howard's Repair Shop	set1	BF_013_Howard's_repair_shop	Battlefield	WG	1						
+The Winners' Villa Basement	set1	BF_014_the_winners_villa_basement	Battlefield	WG	1						
+The Yangtze River	set1	BF_015_The_yangtze_river	Battlefield	WG	1						
+The Old Alliance's Space Colony	set1	BF_016_The_old_alliance's_space_colony	Battlefield	WG	1						
+Europe Air Force Base	set1	BF_017_europe_air_force_base	Battlefield	Oz	2						
+The Treize Fleet	set1	BF_018_the_treize_fleet	Battlefield	Oz	2						
+Romefeller Foundation's HQ	set1	BF_019_Romefeller_foundation's_hq	Battlefield	Oz	2						
+The Lunar Base	set1	BF_020_the_lunar_base	Battlefield	Oz	2						
+South Pole Base	set1	BF_021_South_Pole_base	Battlefield	Oz	2						
+Under the North Russian Sea	set1	BF_022_Under_the_north_russian_sea	Battlefield	Oz	2						
+Old Space Colony	set1	BF_023_old_space_colony	Battlefield	Oz	2						
+Urban Area	set1	BF_024_urban_area	Battlefield	Oz	2						
+C421 Space Colony	set1	BF_025_C421_space_colony	Battlefield	Oz	2						
+X-18999	set2	BF_026_x-18999	Battlefield	Oz	3				Y		
+L1 Colony	set2	BF_027_L1_Colony	Battlefield	WG	3						
+Satelite MO-III	set2	BF_028_satellite_mo_111	Battlefield	Oz	2						
+The Gundam Scrap Heap	set2	BF_029_the_gundam_scrap_heap	Battlefield	WG	3						
+In the Atmosphere	set2	BF_030_In_the_atmosphere	Battlefield	Oz	2						
+In the Satellite's Orbit	set2	BF_031_In_the_satellite's_orbit	Battlefield	WG	3						
+Mariemaia Army Headquarters	set2	BF_032_mariemaia_army_headquarters	Battlefield	Oz	2						
+The Government-General	set2	BF_033_the_government_general	Battlefield	Oz	4						
+Side 7	set3	BF_034_Side_7	Battlefield	EF	3						
+Luna II	set3	BF_035_Luna_II	Battlefield	EF	3						
+Jaburo	set3	BF_036_jabrow	Battlefield	EF	4						
+North America	set3	BF_037_North_America	Battlefield	PZ	3						
+The Zeon Mining Region	set3	BF_038_the_zeon_mining_region	Battlefield	PZ	3						
+Odessa	set3	BF_039_Odessa	Battlefield	PZ	4						
+Operation Meteor	set1	EV_001_operation_meteor	Event	WG	3						
+Shocking Reply	set1	EV_002_shocking_reply	Event	WG	2						
+Rebel Factor	set1	EV_003_rebel_factor	Event	WG	2						
+Support of Maganac Corps	set1	EV_004_Support_of_maganac_corps	Event	WG	2						
+Highly Trained Pilot	set1	EV_005_highly_trained_pilot	Event	WG	2						
+Nation of Total Pacifism	set1	EV_006_nation_of_total_pacifism	Event	WG	1						
+Specials	set1	EV_007_specials	Event	Oz	3				Y		
+Romefeller Foundation	set1	EV_008_Romefeller_foundation	Event	Oz	2				Y		
+Assassination	set1	EV_009_assassination	Event	Oz	3						
+Emergency Escape	set1	EV_010_emergency_escape	Event	Oz	1						
+Operation Daybreak	set1	EV_011_operation_daybreak	Event	Oz	3						
+Mobile Doll	set1	EV_012_mobile_doll	Event	Oz	2						
+Confinement	set1	EV_013_confinment	Event	Oz	2						
+Space Fortress Barge	set1	EV_014_space_fortress_barge	Event	Oz	3				Y		
+Surrender	set1	EV_015_surrender	Event	WG	2						
+Covering Fire	set1	EV_016_covering_fire	Event	WG	2						
+The Peacecrafts	set1	EV_017_the_peacecrafts	Event	WG	2						
+High Powered Combat	set1	EV_018_High_powered_combat	Event	WG	2						
+Circus	set1	EV_019_circus	Event	WG	2						
+Parts Thieves	set1	EV_020_part_thieves	Event	WG	1						
+Time to Rest	set1	EV_021_time_to_rest	Event	WG	2						
+Oz Corps Infiltration	set1	EV_022_oz_corps_infiltration	Event	WG	2						
+Zero System	set1	EV_023_zero_system	Event	WG	5				Y		
+Birthday Party	set1	EV_024_birthday_party	Event	WG	1						
+Memory Loss	set1	EV_025_memory_loss	Event	WG	1						
+Mercenary	set1	EV_026_Mercenary	Event	WG	1						
+Experience Counts	set1	EV_027_Experience_counts	Event	WG	3						
+Training	set1	EV_028_Training	Event	WG	3						
+Triumphant Return	set1	EV_029_Triumphant_return	Event	WG	1						
+Aftermath	set1	EV_030_Aftermath	Event	WG	3				Y		
+Mission Failure	set1	EV_031_Mission_failure	Event	WG	0						
+White Fang	set1	EV_032_White_fang	Event	Oz	5						
+The World Nation Forces	set1	EV_033_the_world_nation_forces	Event	Oz	2						
+Vanquished	set1	EV_034_Vanquished	Event	Oz	3				Y		
+Message From Treize Khushrenada	set1	EV_035_message_from_treize_khushrenada	Event	Oz	2						
+Commander	set1	EV_036_Commander	Event	Oz	2						
+Assassin's Bullet	set1	EV_037_assassin's_bullet	Event	Oz	2						
+Encouragement	set1	EV_038_Encouragement	Event	Oz	1						
+Military Action	set1	EV_039_military_action	Event	Oz	2						
+Research Group	set1	EV_040_Research_group	Event	Oz	1						
+Camouflage	set1	EV_041_Camouflage	Event	Oz	2						
+Loner	set1	EV_042_loner	Event	Oz	2						
+Rose Essence	set1	EV_043_Rose_Essence	Event	Oz	1				Y		
+Decoy	set1	EV_044_Decoy	Event	Oz	3						
+The Alliance Summit	set1	EV_045_the_alliance_summit	Event	Oz	4				Y		
+MD Control Device	set1	EV_046_MD_control_device	Event	Oz	4				Y		
+Single Combat	set1	EV_047_single_combat	Event	Oz	2						
+Self-Sacrifice	set1	EV_048_self-sacrifice	Event	Oz	3				Y		
+Special Attack Corps	set1	EV_049_Special_attack_corps	Event	Oz	2						
+M.S. Transport	set1	EV_050_M.S._transport	Event	Oz	2						
+Pinned Down	set1	EV_051_Pinned_down	Event	Oz	0						
+Preventer	set2	EV_052_Preventer	Event	WG	1						
+Neo Titanium	set2	EV_053_neo_titanium	Event	Oz	0				Y		
+The Anniversary of War's End	set2	EV_054_the_anniversary_of_war's_end	Event	WG	2						
+Snatch	set2	EV_055_Snatch	Event	Oz	2						
+Rally of Mariemaia Army	set2	EV_056_rally_of_mariemaia_army	Event	Oz	2						
+Colony Infiltration	set2	EV_057_Colony_infiltration	Event	WG	1						
+Single Flower	set2	EV_058_Single_Flower	Event	WG	2						
+Power Transfer	set2	EV_059_Power_Transfer	Event	Oz	2						
+Heat Detector	set2	EV_060_Heat_Detectors	Event	WG	2						
+13th Constellation	set2	EV_061_13th_constellation	Event	Oz	1						
+Escape From Satellite MO-III	set2	EV_062_Escape_from_satellite_mo-111	Event	Oz	1						
+Jailbreak	set2	EV_063_Jailbreak	Event	Oz	3						
+Gundam Recovery	set2	EV_064_Gundam_Recovery	Event	WG	0						
+Barton Foundation	set2	EV_065_Barton_Foundation	Event	Oz	2						
+Descending Operation	set2	EV_066_Descending_operation	Event	Oz	3						
+The Real Operation Meteor	set2	EV_067_The_real_operation_meteor	Event	Oz	3						
+Blocking	set2	EV_068_Blocking	Event	WG	3						
+State of Emergency	set2	EV_069_State_of_emergency	Event	WG	3						
+People's Action	set2	EV_070_People's_Action	Event	WG	3						
+The Pinch	set2	EV_071_The_Pinch	Event	WG	1						
+Reformed	set2	EV_072_Reformed	Event	WG	1						
+End of Waltz	set2	EV_073_End_of_waltz	Event	WG	6				Y		
+Operation V	set3	EV_074_Operation_V	Event	EF	2						
+Into the Atmosphere	set3	EV_075_into_the_atmosphere	Event	EF	4						
+Minovsky Particles	set3	EV_076_minovsky_particles	Event	EF	2						
+Supply Corps	set3	EV_077_Supply_corps	Event	EF	1						
+Antiaircraft Fire	set3	EV_078_Antiaircraft_fire	Event	EF	3						
+Mass Production	set3	EV_079_mass_production	Event	EF	0						
+The Solar System	set3	EV_080_the_solar_system	Event	EF	5						
+The Red Comet	set3	EV_081_the_red_comet	Event	PZ	2						
+Speech	set3	EV_082_Speech	Event	PZ	3						
+Guerrilla Band	set3	EV_083_Guerrilla_band	Event	PZ	3						
+Jet-Stream Attack	set3	EV_084_jet-stream_attack	Event	PZ	2						
+Spy	set3	EV_085_Spy	Event	PZ	2						
+MA Kube's Tactics	set3	EV_086_ma_kube's_tactics	Event	PZ	3						
+Oz Mission 1	set1	oz_missions_01	Missions	Oz							
+Oz Mission 2	set1	oz_missions_02	Missions	Oz							
+Wing Gundam Mission 1	set1	wing_team_missions_01	Missions	WG							
+Wing Gundam Mission 2	set1	wing_team_missions_02	Missions	WG							
+Wing Gundam	set1	MS_001_Wing_Gundam	Mobile Suits	WG	4	4				Y	
+Wing Gundam (Bird Mode)	set1	MS_002_Wing_Gundam_Bird_Mode	Mobile Suits	WG	3	3				Y	
+Gundam Deathscythe	set1	MS_003_Gundam_Deathscythe	Mobile Suits	WG	3	3				Y	
+Gundam Heavyarms	set1	MS_004_Gundam_Heavyarms	Mobile Suits	WG	3	3				Y	
+Gundam Sandrock	set1	MS_005_Gundam_Sandrock	Mobile Suits	WG	3	3	Sand			Y	
+Shenlong Gundam	set1	MS_006_Shenlong_Gundam	Mobile Suits	WG	3	3				Y	
+Maganac	set1	MS_007_Maganac	Mobile Suits	WG	3	3	Sand				
+Maganac	set1	MS_008_Maganac	Mobile Suits	WG	2	2	Sand				
+Oliphant	set1	MS_009_Oliphant	Mobile Suits	WG	2	3	Sand				
+Taurus	set1	MS_010_Taurus	Mobile Suits	WG	3	4					
+Leo	set1	MS_011_Leo	Mobile Suits	WG	2	2					
+Peacemillion	set1	MS_012_Peacemillion	Mobile Suits	WG	2	2				Y	
+Gundam Epyon	set1	MS_013_Gundam_Epyon	Mobile Suits	Oz	6	5				Y	
+Tallgeese	set1	MS_014_Tallgeese	Mobile Suits	Oz	3	3				Y	Y
+Tallgeese II	set1	MS_015_Tallgeese_II	Mobile Suits	Oz	4	4				Y	Y
+Leo	set1	MS_016_Leo	Mobile Suits	Oz	2	3					
+Aries (Flying Mode)	set1	MS_017_Aries_Flying_Mode	Mobile Suits	Oz	3	3					Y
+Pieces (M.S. Mode)	set1	MS_018_Pisces_ms_mode	Mobile Suits	Oz	2	2	Sea				
+Cancer	set1	MS_019_Cancer	Mobile Suits	Oz	3	2	Sea				
+Tragos (Hover Mode)	set1	MS_020_Tragos_Hover_Mode	Mobile Suits	Oz	2	3					
+Taurus	set1	MS_021_Taurus	Mobile Suits	Oz	3	4					
+Vayeate	set1	MS_022_Vayeate	Mobile Suits	Oz	4	4				Y	
+Mercurius	set1	MS_023_Mercurius	Mobile Suits	Oz	4	4				Y	
+Virgo	set1	MS_024_Virgo	Mobile Suits	Oz	3	4					
+Wing Gundam Zero	set1	MS_025_Wing_Gundam_Zero	Mobile Suits	WG	5	5				Y	
+Wing Gundam Zero (Bird Mode)	set1	MS_026_Wing_Gundam_Zero_Bird_Mode	Mobile Suits	WG	4	4				Y	
+Gundam Deathscythe H.	set1	MS_027_Gundam_Deathscythe_Hell	Mobile Suits	WG	4	4				Y	
+Gundam Heavyarms Custom	set1	MS_028_Gundam_Heavyarms_custom	Mobile Suits	WG	4	4				Y	
+Gundam Sandrock Custom	set1	MS_029_Gundam_Sandrock_Custom	Mobile Suits	WG	4	4				Y	
+Altron Gundam	set1	MS_030_Altron_Gundam	Mobile Suits	WG	4	4				Y	
+Wing Gundam	set1	MS_031_Wing_Gundam	Mobile Suits	WG	4	4				Y	
+Wing Gundam (Bird Mode)	set1	MS_032_Wing_Gundam_bird_mode	Mobile Suits	WG	3	3				Y	Y
+Gundam Deathscythe	set1	MS_033_Gundam_Deathscythe	Mobile Suits	WG	3	3				Y	
+Gundam Heavyarms	set1	MS_034_Gundam_Heavyarms	Mobile Suits	WG	3	3				Y	
+Gundam Sandrock	set1	MS_035_Gundam_Sandrock	Mobile Suits	WG	3	3					
+Shenlong Gundam	set1	MS_036_Shenlong_Gundam	Mobile Suits	WG	3	3					
+Vayeate (Inncomplete)	set1	MS_037_Vayeate_Incomplete	Mobile Suits	WG	2	4					
+Mercurius (Incomplete)	set1	MS_038_Mercurius_Incomplete	Mobile Suits	WG	2	4					
+Maganac	set1	MS_039_Maganac	Mobile Suits	WG	2	2	Sand				
+Maganac	set1	MS_040_Maganac	Mobile Suits	WG	2	2	Sand				
+Aries	set1	MS_041_Aries	Mobile Suits	WG	3	3	Sand				Y
+Leo	set1	MS_042_Leo	Mobile Suits	WG	2	2					
+The Shuttle	set1	MS_043_The_Shuttle	Mobile Suits	WG	2	1					
+Oz Transport Plane	set1	MS_044_OZ_Transport_Plane	Mobile Suits	WG	1	1					
+Transport Trailer	set1	MS_045_Transport_Trailer	Mobile Suits	WG	1	1					
+Gundam Heavyarms	set1	MS_046_Gundam_Heavyarms	Mobile Suits	WG	3	3				Y	
+Gundam Epyon	set1	MS_047_Gundam_Epyon	Mobile Suits	Oz	6	5				Y	
+Gundam Epyon (Bird Mode)	set1	MS_048_Gundam_Epyon_Bird_Mode	Mobile Suits	Oz	4	3				Y	
+Tallgeese	set1	MS_049_Tallgeese	Mobile Suits	Oz	3	3				Y	
+Tallgeese II	set1	MS_050_Tallgeese_II	Mobile Suits	Oz	5	4			Y	Y	Y
+Leo	set1	MS_051_Leo	Mobile Suits	Oz	2	2					Y
+Leo	set1	MS_052_Leo	Mobile Suits	Oz	1	1					
+Leo	set1	MS_053_Leo	Mobile Suits	Oz	2	2					
+Aries (M.S. Mode)	set1	MS_054_Aries_ms_mode	Mobile Suits	Oz	2	3					
+Aries (Flying Mode)	set1	MS_055_Aries_flying_mode	Mobile Suits	Oz	3	3					Y
+Pisces (M.S. Mode)	set1	MS_056_Pisces_ms_mode	Mobile Suits	Oz	2	2	Sea				
+Pisces (Cruising Mode)	set1	MS_057_Pisces_cruising_mode	Mobile Suits	Oz	2	2	Sea				
+Cancer	set1	MS_058_Cancer	Mobile Suits	Oz	2	3	Sea				
+Tragos (Hover Mode)	set1	MS_059_Tragos_hover_mode	Mobile Suits	Oz	2	3	Sand				
+Tragos (M.S. Mode)	set1	MS_060_Tragos_ms_mode	Mobile Suits	Oz	3	3	Sand				
+Taurus	set1	MS_061_Taurus	Mobile Suits	Oz	3	4					
+Taurus (Flying Mode)	set1	MS_062_Taurus_flying_mode	Mobile Suits	Oz	3	3					Y
+Vayeate	set1	MS_063_Vayeate	Mobile Suits	Oz	4	4				Y	
+Mercurius	set1	MS_064_Mercurius	Mobile Suits	Oz	4	4				Y	
+Virgo	set1	MS_065_Virgo	Mobile Suits	Oz	4	3					
+Virgo II	set1	MS_066_Virgo_II	Mobile Suits	Oz	5	4					
+Wing Gundam Zero Custom	set2	MS_067_Wing_Gundam_Zero_Custom	Mobile Suits	WG	5	5			Y	Y	
+Gundam Deathscythe H. Custom	set2	MS_068_Gundam_DeathScythe_Hell_Custom	Mobile Suits	WG	5	5	Sea		Y	Y	
+Gundam Heavyarms Custom	set2	MS_069_Gundam_Heavyarms_Custom	Mobile Suits	WG	5	5			Y	Y	
+Gundam Sandrock Custom	set2	MS_070_Gundam_Sandrock_Custom	Mobile Suits	WG	5	5	Sand		Y	Y	
+Altron Gundam	set2	MS_071_Altron_Gundam	Mobile Suits	Oz	5	5			Y	Y	
+Tallgeese III	set2	MS_072_Tallgeese_III	Mobile Suits	WG	5	5				Y	Y
+Taurus	set2	MS_073_Taurus	Mobile Suits	WG	4	4					
+Preventer Shuttle	set2	MS_074_Preventer_Shuttle	Mobile Suits	WG	1	1					
+Zero Transport Capsule	set2	MS_075_Zero_Transport_Capsule	Mobile Suits	WG	3	1				Y	Y
+Taurus	set2	MS_076_Taurus	Mobile Suits	Oz	3	4					
+Leo	set2	MS_077_Leo	Mobile Suits	Oz	2	1					
+Leo	set2	MS_078_Leo	Mobile Suits	Oz	2	3					Y
+Leo	set2	MS_079_Leo	Mobile Suits	Oz	2	3					Y
+Serpent	set2	MS_080_Serpent	Mobile Suits	Oz	5	4					
+Serpent	set2	MS_081_Serpent	Mobile Suits	Oz	5	4					
+Serpent Transport Ship	set2	MS_082_Serpent_Transport_Ship	Mobile Suits	Oz	1	1					
+Gundam	set3	MS_083_Gundam	Mobile Suits	EF	4	4	Sea			Y	
+Guncannon	set3	MS_084_Guncannon	Mobile Suits	EF	4	4					
+Guntank	set3	MS_085_Guntank	Mobile Suits	EF	4	4					
+GM	set3	MS_086_GM	Mobile Suits	EF	2	2					
+Core Fighter	set3	MS_087_Core_Fighter	Mobile Suits	EF	0	1					
+G-Fighter	set3	MS_088_G-fighter	Mobile Suits	EF	2	2				Y	
+G-Bull	set3	MS_089_G-Bull	Mobile Suits	EF	2	2				Y	
+Ball	set3	MS_090_Ball	Mobile Suits	EF	1	1					
+White Base	set3	MS_091_White_Base	Mobile Suits	EF	3	4				Y	
+Magellan	set3	MS_092_Magellan	Mobile Suits	EF	2	2	Battleship			Y	
+Big Tray	set3	MS_093_Big_Tray	Mobile Suits	EF	3	3	"Battleship, Sand"				
+Medea	set3	MS_094_Medea	Mobile Suits	EF	1	1					
+Char's Zaku	set3	MS_095_Char's_Zaku	Mobile Suits	PZ	4	4				Y	
+Zaku I	set3	MS_096_Zaku_I	Mobile Suits	PZ	1	1					
+Zaku II	set3	MS_097_Zaku_II	Mobile Suits	PZ	2	2					
+Gouf	set3	MS_098_Gouf	Mobile Suits	PZ	3	3	Sand				
+Dom	set3	MS_099_DOM	Mobile Suits	PZ	3	3					
+Char's Z'Gok	set3	MS_100_Char's_Z'gok	Mobile Suits	PZ	4	3	Sea			Y	
+Z'Gok	set3	MS_101_Z'gok	Mobile Suits	PZ	3	2	Sea				
+Grublo	set3	MS_102_Grabro	Mobile Suits	PZ	5	4	"Sea, Mobile Armor"			Y	
+Azzam	set3	MS_103_Azzam	Mobile Suits	PZ	4	4	"Sand, Mobile Armor"				
+Acguy	set3	MS_104_acguy	Mobile Suits	PZ	3	2	Sea				
+Dopp	set3	MS_105_dopp	Mobile Suits	PZ	1	1					
+Char's Musai	set3	MS_106_char's_musai	Mobile Suits	PZ	2	2	Battleship			Y	
+Gau	set3	MS_107_gau	Mobile Suits	PZ	3	3	Battleship				
+Zanzibar	set3	MS_108_zanzibar	Mobile Suits	PZ	4	4	Battleship			Y	
+Heero Yuy	set1	PL_001_heero_yuy	Pilot	WG	1						
+Duo Maxwell	set1	PL_002_Duo_maxwell	Pilot	WG	1						
+Trowa Barton	set1	PL_003_trowa_barton	Pilot	WG	1						
+Quatre Raberba Winner	set1	PL_004_Quatre_raberba_winner	Pilot	WG	1						
+Chang Wufei	set1	PL_005_chang_wufei	Pilot	WG	1						
+Relena Darlian	set1	PL_006_relena_darlian	Pilot	WG	1			Y			
+Sally Po	set1	PL_007_Sally_po	Pilot	WG	1						
+Doctor J	set1	PL_008_doctor_j	Pilot	WG	1			Y	Y		
+Zechs Merquise	set1	PL_009_zechs_merquise	Pilot	Oz	2						Y
+Treize Khushrenada	set1	PL_010_treize_khushrenada	Pilot	Oz	1				Y		
+Lady Une	set1	PL_011_lady_une	Pilot	Oz	1						
+Lucrezia Noin	set1	PL_012_lucrezia_noin	Pilot	Oz	1						
+Dorothy Catalonia	set1	PL_013_dorothy_catalonia	Pilot	Oz	1						
+Tubarov	set1	PL_014_tubarov	Pilot	Oz	1						
+Heero Yuy	set1	PL_015_heero_yuy	Pilot	WG	2						
+Duo Maxwell	set1	PL_016_duo_maxwell	Pilot	WG	2						
+Trowa Barton	set1	PL_017__trowa_barton	Pilot	WG	2						
+Quatre Raberba Winner	set1	PL_018_quatre_raberba_winner	Pilot	WG	2						
+Chang Wufei	set1	PL_019_chang_wufei	Pilot	WG	2						
+Relena Peacecraft	set1	PL_020_Relena_peacecraft	Pilot	WG	2			Y			
+Sally Po	set1	PL_021_Sally_Po	Pilot	WG	1						
+Catherine Bloom	set1	PL_022_Catherine_bloom	Pilot	WG	1						
+Howard	set1	PL_023_Howard	Pilot	WG	1						
+Rasid Kurama	set1	PL_024_Rasid_Kurama	Pilot	WG	1						
+Miniser Darlian	set1	PL_025_Minister_darlian	Pilot	WG	2			Y			
+Professor G	set1	PL_026_Professor_g	Pilot	WG	2			Y			
+Innsructor H	set1	PL_027_instructor_h	Pilot	WG	2			Y			
+Milliardo Peacecraft	set1	PL_028_Milliardo_peacecraft	Pilot	Oz	2				Y		
+Treize Khushrenada	set1	PL_029_Treiza_Knushrinada	Pilot	Oz	2						
+Lady Une	set1	PL_030_Lady_une	Pilot	Oz	2						
+Lucrezia Noin	set1	PL_031_Lucrezia_noin	Pilot	Oz	1						
+Dorothy Catalonia	set1	PL_032_Dorothy_catalonia	Pilot	Oz	2						
+Tubarov	set1	PL_033_Tubarov	Pilot	Oz	2						
+Quinze	set1	PL_034_Quinze	Pilot	Oz	2			Y			
+Otto	set1	PL_035_Otto	Pilot	Oz	1						
+Duke Dermail	set1	PL_036_Duke_dermail	Pilot	Oz	1			Y	Y		
+Muller	set1	PL_037_muller	Pilot	Oz	1						
+Hilde Schbeiker	set1	PL_038_Hilde_Schbeiker	Pilot	Oz	1						
+Heero Yuy	set2	PL_039_Heero_Yuy	Pilot	WG	2						Y
+Duo Maxwell	set2	PL_040_Duo_maxwell	Pilot	WG	3						
+Trowa Barton	set2	PL_041_trowa_barton	Pilot	Oz	2						
+Quatre Raberba Winner	set2	PL_042_Quatre_raberba_winner	Pilot	WG	3						
+Chang Wufei	set2	PL_043_Chang_Wufei	Pilot	Oz	2						
+Zechs Merquise	set2	PL_044_Zechs_merquise	Pilot	WG	3						
+Lady Une	set2	PL_045_Lady_Une	Pilot	WG	1						
+Mariemaia Khushrenada	set2	PL_046_Marimaia_Khushrinada	Pilot	Oz	2			Y	Y		
+Dekim Barton	set2	PL_047_Dekim_Barton	Pilot	Oz	4			Y	Y		
+The Real Trowa Barton	set2	PL_048_the_real_trowa_barton	Pilot	Oz	2						
+The President of Earth Sphere	set2	PL_049_the_president_of_earth_sphere	Pilot	WG	1			Y			
+Relena Darlian	set2	PL_050_Relena_Darlian	Pilot	WG	2			Y			
+Master O	set2	PL_051_Master_O	Pilot	WG	2			Y			
+Doktor S	set2	PL_052_Doktor_S	Pilot	WG	2			Y			
+Amuro Ray	set3	PL_053_Amuro_Ray	Pilot	EF	3		Newtype				
+Sayla Mass	set3	PL_054_Sayla_mass	Pilot	EF	2		Newtype				
+Kai Shiden	set3	PL_055_Kai_Shiden	Pilot	EF	2						
+Hayato Kobayashi	set3	PL_056_Hayato_kobayashi	Pilot	EF	2						
+Bright Noah	set3	PL_057_Bright_Noah	Pilot	EF	2						
+Marai Yashima	set3	PL_058_Mirai_yashima	Pilot	EF	1						
+Ryu Jose	set3	PL_059_Ryu_Jose	Pilot	EF	2						
+Matilda Ajan	set3	PL_060_Matilda_ajan	Pilot	EF	1						
+Char Aznable	set3	PL_061_char_aznable	Pilot	PZ	3		Newtype				
+Garma Zabi	set3	PL_062_Garma_zabi	Pilot	PZ	2						
+Ranba Ral	set3	PL_063_ranba_ral	Pilot	PZ	2						
+Clawle Hamon	set3	PL_064_Clawle_hamon	Pilot	PZ	2						
+Ma Kube	set3	PL_065_Ma_Kube	Pilot	PZ	2						
+The Black Trinary	set3	PL_066_the_black_trinary	Pilot	PZ	2						
+Flanagan Boone	set3	PL_067_Flanagan_boone	Pilot	PZ	1						
