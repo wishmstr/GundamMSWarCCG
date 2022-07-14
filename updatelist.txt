@@ -1,0 +1,11 @@
+GundamMSWarCCG	07-14-21
+plugins/GundamMSWarCCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/plugininfo.txt	224555
+plugins/GundamMSWarCCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/pluginpreferences.txt	291884
+plugins/GundamMSWarCCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/carddata.txt	1452378
+plugins/GundamMSWarCCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/general/cardback.jpg	157782
+plugins/GundamMSWarCCG/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/general/spawned.jpg	157782
+plugins/GundamMSWarCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/CardImageURLs1.txt	3692270
+plugins/GundamMSWarCCG/Gundam_MS_War_Rulebook.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam_MS_War_Rulebook.pdf	-9519498
+plugins/GundamMSWarCCG/Gundam-MS-War-3.0-Functional-Errata.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam-MS-War-3.0-Functional-Errata.pdf	185102
+CardURLFiles:
+CardImageURLs1.txt
