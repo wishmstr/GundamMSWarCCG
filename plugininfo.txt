@@ -48,7 +48,8 @@
 // 2 - Flip a Coin
 // 3 - Spawn a Card
 // 4 - Ready All Cards
-// 5 - Mulligan
+// 5 - Spend from Supply Base
+// 6 - Spend from Dry Dock
 
 <generalfunction>
 	<label>Draw</label>
@@ -69,6 +70,24 @@
 <generalfunction>
 	<label>Ready All</label>
 	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Spend from Supply Base</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Supply Base</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationgamezone>Dry Dock</destinationgamezone>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Spend from Dry Dock</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Dry Dock</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationgamezone>Defunct Pile</destinationgamezone>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 

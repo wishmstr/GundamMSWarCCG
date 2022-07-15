@@ -3,26 +3,26 @@
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
-<canned>(PoP?) Pass or Play?</canned>
-<canned>Pass.</canned>
-<canned>Proceed.</canned>
-<canned>Thinking...</canned>
-<canned>Hold on...</canned>
-<canned>(EoT) At end of turn...</canned>
-<canned>Attack!</canned>
-<canned>In response...</canned>
-<canned>Mulligan.</canned>
-<canned>Your turn...</canned>
-<canned>Done.</canned>
-<canned>Yay!</canned>
-<canned>shucks</canned>
-<canned>/roll</canned>
-<canned>/clear</canned>
-<canned>/draw7</canned>
-<canned>/rolld20</canned>
-<canned>/draw6</canned>
-<canned>/draw8</canned>
-<canned>Good game.</canned>
+<canned>!Draw 5!/draw5</canned>
+<canned>.</canned>
+<canned>!Exp +1!/player stat1 +1</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
+<canned>.</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>Roboto-Light_0.ttf</fontkind0pos1>
 <fontkind0pos2>times.ttf</fontkind0pos2>
