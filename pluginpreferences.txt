@@ -3,11 +3,11 @@
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
-<canned>!Draw 5!/draw5</canned>
+<canned>!Draw 7!/draw7</canned>
+<canned>.</canned>
+<canned>!Mulligan!/f5;/f5;/f5;/f5;/f5;/f5;/f5;/shuffle Supply Base;/draw7</canned>
 <canned>.</canned>
 <canned>!Exp +1!/player stat1 +1</canned>
-<canned>.</canned>
-<canned>.</canned>
 <canned>.</canned>
 <canned>.</canned>
 <canned>.</canned>

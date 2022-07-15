@@ -1,7 +1,8 @@
-!Draw 5!/draw5
+!Draw 7!/draw7
+.
+!Mulligan!/f5;/f5;/f5;/f5;/f5;/f5;/f5;/shuffle Supply Base;/draw7
 .
 !Exp +1!/player stat1 +1
-.
 .
 .
 .

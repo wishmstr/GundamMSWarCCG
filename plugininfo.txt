@@ -38,18 +38,20 @@
 // 1 - Preliminary Phase
 // 2 - Attack Phase
 // 3 - Strategic Phase
+// 4 - Recuperation Phase
 
 <phase><label>Preliminary Phase</label></phase>
 <phase><label>Attack Phase</label></phase>
 <phase><label>Strategic Phase</label></phase>
+<phase><label>Recuperation Phase</label></phase>
 
 //-----General Functions-----//
 // 1 - Draw a Card
 // 2 - Flip a Coin
 // 3 - Spawn a Card
 // 4 - Ready All Cards
-// 5 - Spend from Supply Base
-// 6 - Spend from Dry Dock
+// 5 - Mulligan
+// 6 - Factory
 
 <generalfunction>
 	<label>Draw</label>
@@ -74,20 +76,28 @@
 </generalfunction>
 
 <generalfunction>
-	<label>Spend from Supply Base</label>
+	<label>Mulligan</label>
 	<kind>TRANSFERCARD</kind>
-	<sourcegamezone>Supply Base</sourcegamezone>
+	<sourcegamezone>Hand</sourcegamezone>
 	<sourceposition>top</sourceposition>
-	<destinationgamezone>Dry Dock</destinationgamezone>
+	<destinationgamezone>Supply Base</destinationgamezone>
+</generalfunction>
+
+<generalfunction>
+	<label>Recuperate</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Dry Dock</sourcegamezone>
+	<destinationgamezone>Supply Base</destinationgamezone>
+	<destinationposition>bottom</destinationposition>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 
 <generalfunction>
-	<label>Spend from Dry Dock</label>
+	<label>Battle Damage</label>
 	<kind>TRANSFERCARD</kind>
-	<sourcegamezone>Dry Dock</sourcegamezone>
+	<sourcegamezone>Supply Base</sourcegamezone>
 	<sourceposition>top</sourceposition>
-	<destinationgamezone>Defunct Pile</destinationgamezone>
+	<destinationgamezone>Dry Dock</destinationgamezone>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 
