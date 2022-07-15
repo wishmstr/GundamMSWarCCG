@@ -8,5 +8,5 @@ plugins/GundamMSWarCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wish
 plugins/GundamMSWarCCG/Gundam_MS_War_Rulebook.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam_MS_War_Rulebook.pdf	-9519498
 plugins/GundamMSWarCCG/Gundam-MS-War-3.0-Functional-Errata.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam-MS-War-3.0-Functional-Errata.pdf	185102
 plugins/GundamMSWarCCG/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/defaultchat.txt	3746
-CardFileURLs:
+CardURLFiles:
 CardImageURLs1.txt
