@@ -302,4 +302,4 @@ set3/PL_063_ranba_ral.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWar
 set3/PL_064_Clawle_hamon.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/set3/PL_064_Clawle_hamon.jpg
 set3/PL_065_Ma_Kube.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/set3/PL_065_Ma_Kube.jpg
 set3/PL_066_the_black_trinary.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/set3/PL_066_the_black_trinary.jpg
-set3/PL_067_Flanagan_boone.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/set3/PL_067_Flanagan_boone
+set3/PL_067_Flanagan_boone.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/set3/PL_067_Flanagan_boone.jpg

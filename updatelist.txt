@@ -1,12 +1,16 @@
 GundamMSWarCCG	07-14-21
 plugins/GundamMSWarCCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/plugininfo.txt	304193
-plugins/GundamMSWarCCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/pluginpreferences.txt	285008
-plugins/GundamMSWarCCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/carddata.txt	1452378
+plugins/GundamMSWarCCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/pluginpreferences.txt	280366
+plugins/GundamMSWarCCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/carddata.txt	1460449
 plugins/GundamMSWarCCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/general/cardback.jpg	157782
 plugins/GundamMSWarCCG/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/sets/setimages/general/spawned.jpg	157782
-plugins/GundamMSWarCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/CardImageURLs1.txt	3915048
+plugins/GundamMSWarCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/CardImageURLs1.txt	3915415
 plugins/GundamMSWarCCG/Gundam_MS_War_Rulebook.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam_MS_War_Rulebook.pdf	-9519498
 plugins/GundamMSWarCCG/Gundam-MS-War-3.0-Functional-Errata.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam-MS-War-3.0-Functional-Errata.pdf	185102
+plugins/GundamMSWarCCG/Gundam-MS-War-2.1-Rulebook.pdf	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/Gundam-MS-War-2.1-Rulebook.pdf	-2004447
 plugins/GundamMSWarCCG/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/defaultchat.txt	8951
+plugins/GundamMSWarCCG/decks/Oz_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/decks/Oz_Starter_Deck.dek	347959
+plugins/GundamMSWarCCG/decks/Wing_Gundam_Starter_Deck.dek	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/decks/Wing_Gundam_Starter_Deck.dek	356813
+plugins/GundamMSWarCCG/readme.txt	https://raw.githubusercontent.com/wishmstr/GundamMSWarCCG/main/readme.txt	52661
 CardURLFiles:
 CardImageURLs1.txt

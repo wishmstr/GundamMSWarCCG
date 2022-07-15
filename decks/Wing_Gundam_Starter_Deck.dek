@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>GundamMSWarCCG</game>
+	</meta>
+	<superzone name="Supply Base">
+		<card><name id="BF_010_ST.Gabriela_school">St. Gabriela School</name><set>set1</set></card>
+		<card><name id="BF_010_ST.Gabriela_school">St. Gabriela School</name><set>set1</set></card>
+		<card><name id="EV_026_Mercenary">Mercenary</name><set>set1</set></card>
+		<card><name id="EV_026_Mercenary">Mercenary</name><set>set1</set></card>
+		<card><name id="EV_001_operation_meteor">Operation Meteor</name><set>set1</set></card>
+		<card><name id="EV_001_operation_meteor">Operation Meteor</name><set>set1</set></card>
+		<card><name id="EV_017_the_peacecrafts">The Peacecrafts</name><set>set1</set></card>
+		<card><name id="EV_023_zero_system">Zero System</name><set>set1</set></card>
+		<card><name id="EV_064_Gundam_Recovery">Gundam Recovery</name><set>set2</set></card>
+		<card><name id="EV_064_Gundam_Recovery">Gundam Recovery</name><set>set2</set></card>
+		<card><name id="EV_064_Gundam_Recovery">Gundam Recovery</name><set>set2</set></card>
+		<card><name id="EV_071_The_Pinch">The Pinch</name><set>set2</set></card>
+		<card><name id="EV_071_The_Pinch">The Pinch</name><set>set2</set></card>
+		<card><name id="EV_071_The_Pinch">The Pinch</name><set>set2</set></card>
+		<card><name id="EV_052_Preventer">Preventer</name><set>set2</set></card>
+		<card><name id="EV_052_Preventer">Preventer</name><set>set2</set></card>
+		<card><name id="EV_020_part_thieves">Parts Thieves</name><set>set1</set></card>
+		<card><name id="EV_020_part_thieves">Parts Thieves</name><set>set1</set></card>
+		<card><name id="PL_008_doctor_j">Doctor J</name><set>set1</set></card>
+		<card><name id="PL_008_doctor_j">Doctor J</name><set>set1</set></card>
+		<card><name id="MS_037_Vayeate_Incomplete">Vayeate (Inncomplete)</name><set>set1</set></card>
+		<card><name id="MS_038_Mercurius_Incomplete">Mercurius (Incomplete)</name><set>set1</set></card>
+		<card><name id="MS_072_Tallgeese_III">Tallgeese III</name><set>set2</set></card>
+		<card><name id="MS_072_Tallgeese_III">Tallgeese III</name><set>set2</set></card>
+		<card><name id="MS_072_Tallgeese_III">Tallgeese III</name><set>set2</set></card>
+		<card><name id="MS_074_Preventer_Shuttle">Preventer Shuttle</name><set>set2</set></card>
+		<card><name id="MS_074_Preventer_Shuttle">Preventer Shuttle</name><set>set2</set></card>
+		<card><name id="MS_074_Preventer_Shuttle">Preventer Shuttle</name><set>set2</set></card>
+		<card><name id="MS_045_Transport_Trailer">Transport Trailer</name><set>set1</set></card>
+		<card><name id="MS_045_Transport_Trailer">Transport Trailer</name><set>set1</set></card>
+		<card><name id="MS_045_Transport_Trailer">Transport Trailer</name><set>set1</set></card>
+		<card><name id="PL_005_chang_wufei">Chang Wufei-1</name><set>set1</set></card>
+		<card><name id="PL_002_Duo_maxwell">Duo Maxwell-1</name><set>set1</set></card>
+		<card><name id="PL_001_heero_yuy">Heero Yuy-1</name><set>set1</set></card>
+		<card><name id="PL_004_Quatre_raberba_winner">Quatre Raberba Winner-1</name><set>set1</set></card>
+		<card><name id="PL_003_trowa_barton">Trowa Barton-1</name><set>set1</set></card>
+		<card><name id="MS_003_Gundam_Deathscythe">Gundam Deathscythe-1</name><set>set1</set></card>
+		<card><name id="MS_004_Gundam_Heavyarms">Gundam Heavyarms-1</name><set>set1</set></card>
+		<card><name id="MS_005_Gundam_Sandrock">Gundam Sandrock-1</name><set>set1</set></card>
+		<card><name id="MS_042_Leo">Leo-3</name><set>set1</set></card>
+		<card><name id="MS_042_Leo">Leo-3</name><set>set1</set></card>
+		<card><name id="MS_042_Leo">Leo-3</name><set>set1</set></card>
+		<card><name id="MS_006_Shenlong_Gundam">Shenlong Gundam-1</name><set>set1</set></card>
+		<card><name id="MS_010_Taurus">Taurus-1</name><set>set1</set></card>
+		<card><name id="MS_010_Taurus">Taurus-1</name><set>set1</set></card>
+		<card><name id="MS_010_Taurus">Taurus-1</name><set>set1</set></card>
+		<card><name id="MS_001_Wing_Gundam">Wing Gundam-1</name><set>set1</set></card>
+		<card><name id="MS_073_Taurus">Taurus-4</name><set>set2</set></card>
+		<card><name id="MS_073_Taurus">Taurus-4</name><set>set2</set></card>
+		<card><name id="MS_073_Taurus">Taurus-4</name><set>set2</set></card>
+	</superzone>
+</deck>

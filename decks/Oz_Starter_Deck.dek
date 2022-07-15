@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>GundamMSWarCCG</game>
+	</meta>
+	<superzone name="Supply Base">
+		<card><name id="BF_025_C421_space_colony">C421 Space Colony</name><set>set1</set></card>
+		<card><name id="BF_025_C421_space_colony">C421 Space Colony</name><set>set1</set></card>
+		<card><name id="EV_041_Camouflage">Camouflage</name><set>set1</set></card>
+		<card><name id="EV_043_Rose_Essence">Rose Essence</name><set>set1</set></card>
+		<card><name id="EV_043_Rose_Essence">Rose Essence</name><set>set1</set></card>
+		<card><name id="EV_043_Rose_Essence">Rose Essence</name><set>set1</set></card>
+		<card><name id="EV_045_the_alliance_summit">The Alliance Summit</name><set>set1</set></card>
+		<card><name id="EV_045_the_alliance_summit">The Alliance Summit</name><set>set1</set></card>
+		<card><name id="EV_034_Vanquished">Vanquished</name><set>set1</set></card>
+		<card><name id="EV_034_Vanquished">Vanquished</name><set>set1</set></card>
+		<card><name id="EV_034_Vanquished">Vanquished</name><set>set1</set></card>
+		<card><name id="EV_061_13th_constellation">13th Constellation</name><set>set2</set></card>
+		<card><name id="EV_061_13th_constellation">13th Constellation</name><set>set2</set></card>
+		<card><name id="EV_061_13th_constellation">13th Constellation</name><set>set2</set></card>
+		<card><name id="EV_065_Barton_Foundation">Barton Foundation</name><set>set2</set></card>
+		<card><name id="EV_065_Barton_Foundation">Barton Foundation</name><set>set2</set></card>
+		<card><name id="PL_036_Duke_dermail">Duke Dermail</name><set>set1</set></card>
+		<card><name id="PL_036_Duke_dermail">Duke Dermail</name><set>set1</set></card>
+		<card><name id="MS_062_Taurus_flying_mode">Taurus (Flying Mode)</name><set>set1</set></card>
+		<card><name id="MS_062_Taurus_flying_mode">Taurus (Flying Mode)</name><set>set1</set></card>
+		<card><name id="MS_082_Serpent_Transport_Ship">Serpent Transport Ship</name><set>set2</set></card>
+		<card><name id="MS_082_Serpent_Transport_Ship">Serpent Transport Ship</name><set>set2</set></card>
+		<card><name id="MS_082_Serpent_Transport_Ship">Serpent Transport Ship</name><set>set2</set></card>
+		<card><name id="PL_032_Dorothy_catalonia">Dorothy Catalonia-2</name><set>set1</set></card>
+		<card><name id="PL_011_lady_une">Lady Une-1</name><set>set1</set></card>
+		<card><name id="PL_012_lucrezia_noin">Lucrezia Noin-1</name><set>set1</set></card>
+		<card><name id="PL_033_Tubarov">Tubarov-2</name><set>set1</set></card>
+		<card><name id="PL_043_Chang_Wufei">Chang Wufei-3</name><set>set2</set></card>
+		<card><name id="PL_009_zechs_merquise">Zechs Merquise-1</name><set>set1</set></card>
+		<card><name id="MS_014_Tallgeese">Tallgeese-1</name><set>set1</set></card>
+		<card><name id="MS_014_Tallgeese">Tallgeese-1</name><set>set1</set></card>
+		<card><name id="MS_061_Taurus">Taurus-3</name><set>set1</set></card>
+		<card><name id="MS_061_Taurus">Taurus-3</name><set>set1</set></card>
+		<card><name id="MS_051_Leo">Leo-4</name><set>set1</set></card>
+		<card><name id="MS_051_Leo">Leo-4</name><set>set1</set></card>
+		<card><name id="MS_051_Leo">Leo-4</name><set>set1</set></card>
+		<card><name id="MS_052_Leo">Leo-5</name><set>set1</set></card>
+		<card><name id="MS_052_Leo">Leo-5</name><set>set1</set></card>
+		<card><name id="MS_052_Leo">Leo-5</name><set>set1</set></card>
+		<card><name id="MS_015_Tallgeese_II">Tallgeese II-1</name><set>set1</set></card>
+		<card><name id="MS_015_Tallgeese_II">Tallgeese II-1</name><set>set1</set></card>
+		<card><name id="MS_076_Taurus">Taurus-5</name><set>set2</set></card>
+		<card><name id="MS_076_Taurus">Taurus-5</name><set>set2</set></card>
+		<card><name id="MS_081_Serpent">Serpent-2</name><set>set2</set></card>
+		<card><name id="MS_081_Serpent">Serpent-2</name><set>set2</set></card>
+		<card><name id="MS_081_Serpent">Serpent-2</name><set>set2</set></card>
+		<card><name id="MS_079_Leo">Leo-9</name><set>set2</set></card>
+		<card><name id="MS_079_Leo">Leo-9</name><set>set2</set></card>
+		<card><name id="MS_079_Leo">Leo-9</name><set>set2</set></card>
+		<card><name id="PL_010_treize_khushrenada">Treize Khushrenada-1</name><set>set1</set></card>
+	</superzone>
+</deck>
